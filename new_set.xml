@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rules>
 	<ruleset name="Sat">
-		<rule type="Marker" Number="1" Name="Mono 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Mono_13E_28-04-2026.zip" Date="28042026"/>
+		<rule type="Marker" Number="1" Name="Mono-Feed 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Mono_13E_28-04-2026.zip" Date="28042026"/>
 	</ruleset>
 	<ruleset name="Satdual">
-		<rule type="Marker" Number="1" Name="Dual + 13E - 19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_13E+19E_28-04-2026.zip" Date="28042026"/>
-		<rule type="Marker" Number="2" Name="Dual + 9E - 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_9E+13E_28-04-2026.zip" Date="28042026"/>
-		<rule type="Marker" Number="3" Name="Dual + 5W - 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_5W+13E_28-04-2026.zip" Date="28042026"/>
-		<rule type="Marker" Number="4" Name="Dual + 13E - 16E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_13E+16E_28-04-2026.zip" Date="28042026"/>
+		<rule type="Marker" Number="1" Name="Dual-Feed 13E - 19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_13E+19E_28-04-2026.zip" Date="28042026"/>
+		<rule type="Marker" Number="2" Name="Dual-Feed 9E - 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_9E+13E_28-04-2026.zip" Date="28042026"/>
+		<rule type="Marker" Number="3" Name="Dual-Feed 5W - 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_5W+13E_28-04-2026.zip" Date="28042026"/>
+		<rule type="Marker" Number="4" Name="Dual-Feed 13E - 16E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_13E+16E_28-04-2026.zip" Date="28042026"/>
 	</ruleset>
 	<ruleset name="Sattrial">
-		<rule type="Marker" Number="1" Name="Trial 9E-13E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_9E+13E+19E_28-04-2026.zip" Date="28042026"/>
-		<rule type="Marker" Number="2" Name="Trial 5W-13E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_5W+13E+19E_28-04-2026.zip" Date="28042026"/>
-		<rule type="Marker" Number="3" Name="Trial 13E-16E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_13E+16E+19E_28-04-2026.zip" Date="28042026"/>
-		<rule type="Marker" Number="4" Name="Trial 13E-19E-28E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_13E+19E+28E_28-04-2026.zip" Date="28042026"/>
-		<rule type="Marker" Number="5" Name="Trial 13E-19E-30W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_13E+19E+30W_28-04-2026.zip" Date="28042026"/>
+		<rule type="Marker" Number="1" Name="Trial-Feed 9E-13E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_9E+13E+19E_28-04-2026.zip" Date="28042026"/>
+		<rule type="Marker" Number="2" Name="Trial-Feed 5W-13E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_5W+13E+19E_28-04-2026.zip" Date="28042026"/>
+		<rule type="Marker" Number="3" Name="Trial-Feed 13E-16E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_13E+16E+19E_28-04-2026.zip" Date="28042026"/>
+		<rule type="Marker" Number="4" Name="Trial-Feed 13E-19E-28E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_13E+19E+28E_28-04-2026.zip" Date="28042026"/>
+		<rule type="Marker" Number="5" Name="Trial-Feed 13E-19E-30W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_13E+19E+30W_28-04-2026.zip" Date="28042026"/>
 	</ruleset>
 	<ruleset name="Satquadri">
-		<rule type="Marker" Number="1" Name="Quadri 13E-19E-9E-5W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_13E+19E+9E+5W_28-04-2026.zip" Date="28042026"/>
-		<rule type="Marker" Number="2" Name="Quadri 9E-13E-16E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_9E+13E+16E+19E_28-04-2026.zip" Date="28042026"/>
-		<rule type="Marker" Number="3" Name="Quadri 13E-16E-19E-30W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_13E+16E+19E+30W_28-04-2026.zip" Date="28042026"/>
-		<rule type="Marker" Number="4" Name="Quadri 13E-19E-23E-28E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_13E+19E+23E+28E_28-04-2026.zip" Date="28042026"/>
+		<rule type="Marker" Number="1" Name="Quadri-Feed 13E-19E-9E-5W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_13E+19E+9E+5W_28-04-2026.zip" Date="28042026"/>
+		<rule type="Marker" Number="2" Name="Quadri-Feed 9E-13E-16E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_9E+13E+16E+19E_28-04-2026.zip" Date="28042026"/>
+		<rule type="Marker" Number="3" Name="Quadri-Feed 13E-16E-19E-30W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_13E+16E+19E+30W_28-04-2026.zip" Date="28042026"/>
+		<rule type="Marker" Number="4" Name="Quadri-Feed 13E-19E-23E-28E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_13E+19E+23E+28E_28-04-2026.zip" Date="28042026"/>
 	</ruleset>
 	<ruleset name="Satmotor">
 		<rule type="Marker" Number="1" Name="Motor 75E-45W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Motor_75E-45W_28-04-2026.zip" Date="28042026"/>
