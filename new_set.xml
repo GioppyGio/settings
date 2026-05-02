@@ -7,6 +7,7 @@
 		<rule type="Marker" Number="1" Name="Dual + 13E - 19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_13E+19E_28-04-2026.zip" Date="28042026"/>
 		<rule type="Marker" Number="2" Name="Dual + 9E - 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_9E+13E_28-04-2026.zip" Date="28042026"/>
 		<rule type="Marker" Number="3" Name="Dual + 5W - 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_5W+13E_28-04-2026.zip" Date="28042026"/>
+		<rule type="Marker" Number="4" Name="Dual + 13E - 16E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_13E+16E_28-04-2026.zip" Date="28042026"/>
 	</ruleset>
 	<ruleset name="Sattrial">
 		<rule type="Marker" Number="1" Name="Trial 9E-13E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_9E+13E+19E_28-04-2026.zip" Date="28042026"/>
