@@ -26,7 +26,7 @@
 		<rule type="Marker" Number="1" Name="Motor 75E-45W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Motor_75E-45W_25-05-2026.zip" Date="25052026"/>
 	</ruleset>
 	<ruleset name="dtt">
-	    <rule type="Marker" Number="1" Name="Digitale Terrestre Aci Catena (CT)ᶰᶱʷ" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Aci%20Catena%20(CT).zip" Date="25032026"/>
+	    <rule type="Marker" Number="1" Name="Digitale Terrestre Aci Catena (CT)ᶰᶱʷ" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Aci%20Catena%20(CT).zip" Date="25052026"/>
 		<rule type="Marker" Number="2" Name="Digitale Terrestre Agrigento" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Agrigento.zip" Date="30102025"/>
 		<rule type="Marker" Number="3" Name="Digitale Terrestre Ancona" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Ancona.zip" Date="22012026"/>
 		<rule type="Marker" Number="4" Name="Digitale Terrestre Ascoli" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Ascoli.zip" Date="13042025"/>
