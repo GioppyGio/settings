@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rules>
 	<ruleset name="Sat">
-		<rule type="Marker" Number="1" Name="Mono-Feed 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Mono_13E_17-06-2026.zip" Date="17062026"/>
+		<rule type="Marker" Number="1" Name="Mono-Feed 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Mono_13E_24-06-2026.zip" Date="24062026"/>
 	</ruleset>
 	<ruleset name="Satdual">
-		<rule type="Marker" Number="1" Name="Dual-Feed 13E - 19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_13E+19E_17-06-2026.zip" Date="17062026"/>
-		<rule type="Marker" Number="2" Name="Dual-Feed 9E - 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_9E+13E_17-06-2026.zip" Date="17062026"/>
-		<rule type="Marker" Number="3" Name="Dual-Feed 5W - 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_5W+13E_17-06-2026.zip" Date="17062026"/>
-		<rule type="Marker" Number="4" Name="Dual-Feed 13E - 16E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_13E+16E_17-06-2026.zip" Date="17062026"/>
+		<rule type="Marker" Number="1" Name="Dual-Feed 13E - 19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_13E+19E_24-06-2026.zip" Date="24062026"/>
+		<rule type="Marker" Number="2" Name="Dual-Feed 9E - 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_9E+13E_24-06-2026.zip" Date="24062026"/>
+		<rule type="Marker" Number="3" Name="Dual-Feed 5W - 13E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_5W+13E_24-06-2026.zip" Date="24062026"/>
+		<rule type="Marker" Number="4" Name="Dual-Feed 13E - 16E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Dual_13E+16E_24-06-2026.zip" Date="24062026"/>
 	</ruleset>
 	<ruleset name="Sattrial">
-		<rule type="Marker" Number="1" Name="Trial-Feed 9E-13E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_9E+13E+19E_17-06-2026.zip" Date="17062026"/>
-		<rule type="Marker" Number="2" Name="Trial-Feed 5W-13E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_5W+13E+19E_17-06-2026.zip" Date="17062026"/>
-		<rule type="Marker" Number="3" Name="Trial-Feed 13E-16E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_13E+16E+19E_17-06-2026.zip" Date="17062026"/>
-		<rule type="Marker" Number="4" Name="Trial-Feed 13E-19E-28E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_13E+19E+28E_17-06-2026.zip" Date="17062026"/>
-		<rule type="Marker" Number="5" Name="Trial-Feed 13E-19E-30W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_13E+19E+30W_17-06-2026.zip" Date="17062026"/>
+		<rule type="Marker" Number="1" Name="Trial-Feed 9E-13E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_9E+13E+19E_24-06-2026.zip" Date="24062026"/>
+		<rule type="Marker" Number="2" Name="Trial-Feed 5W-13E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_5W+13E+19E_24-06-2026.zip" Date="24062026"/>
+		<rule type="Marker" Number="3" Name="Trial-Feed 13E-16E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_13E+16E+19E_24-06-2026.zip" Date="24062026"/>
+		<rule type="Marker" Number="4" Name="Trial-Feed 13E-19E-28E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_13E+19E+28E_24-06-2026.zip" Date="24062026"/>
+		<rule type="Marker" Number="5" Name="Trial-Feed 13E-19E-30W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Trial_13E+19E+30W_24-06-2026.zip" Date="24062026"/>
 	</ruleset>
 	<ruleset name="Satquadri">
-		<rule type="Marker" Number="1" Name="Quadri-Feed 13E-19E-9E-5W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_13E+19E+9E+5W_17-06-2026.zip" Date="17062026"/>
-		<rule type="Marker" Number="2" Name="Quadri-Feed 9E-13E-16E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_9E+13E+16E+19E_17-06-2026.zip" Date="17062026"/>
-		<rule type="Marker" Number="3" Name="Quadri-Feed 13E-16E-19E-30W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_13E+16E+19E+30W_17-06-2026.zip" Date="17062026"/>
-		<rule type="Marker" Number="4" Name="Quadri-Feed 13E-19E-23E-28E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_13E+19E+23E+28E_17-06-2026.zip" Date="17062026"/>
+		<rule type="Marker" Number="1" Name="Quadri-Feed 13E-19E-9E-5W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_13E+19E+9E+5W_24-06-2026.zip" Date="24062026"/>
+		<rule type="Marker" Number="2" Name="Quadri-Feed 9E-13E-16E-19E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_9E+13E+16E+19E_24-06-2026.zip" Date="24062026"/>
+		<rule type="Marker" Number="3" Name="Quadri-Feed 13E-16E-19E-30W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_13E+16E+19E+30W_24-06-2026.zip" Date="24062026"/>
+		<rule type="Marker" Number="4" Name="Quadri-Feed 13E-19E-23E-28E" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Quadri_13E+19E+23E+28E_24-06-2026.zip" Date="24062026"/>
 	</ruleset>
 	<ruleset name="Satmotor">
-		<rule type="Marker" Number="1" Name="Motor 75E-45W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Motor_75E-45W_17-06-2026.zip" Date="17062026"/>
+		<rule type="Marker" Number="1" Name="Motor 75E-45W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Motor_75E-45W_24-06-2026.zip" Date="24062026"/>
 	</ruleset>
 	<ruleset name="dtt">
-	    <rule type="Marker" Number="1" Name="Digitale Terrestre Aci Catena (CT)ᶰᶱʷ" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Aci%20Catena%20(CT).zip" Date="17062026"/>
+	    <rule type="Marker" Number="1" Name="Digitale Terrestre Aci Catena (CT)ᶰᶱʷ" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Aci%20Catena%20(CT).zip" Date="24062026"/>
 		<rule type="Marker" Number="2" Name="Digitale Terrestre Agrigento" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Agrigento.zip" Date="30102025"/>
 		<rule type="Marker" Number="3" Name="Digitale Terrestre Ancona" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Ancona.zip" Date="22012026"/>
 		<rule type="Marker" Number="4" Name="Digitale Terrestre Ascoli" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Ascoli.zip" Date="13042025"/>
@@ -57,7 +57,7 @@
 		<rule type="Marker" Number="29" Name="Digitale Terrestre Enna" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Enna.zip" Date="22042026"/>
 		<rule type="Marker" Number="30" Name="Digitale Terrestre Fermo Marche" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Fermo%20%5bMarche%5d.zip" Date="14062026"/>
 		<rule type="Marker" Number="31" Name="Digitale Terrestre Foggia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Foggia.zip" Date="13022026"/>
-		<rule type="Marker" Number="32" Name="Digitale Terrestre Forchia (BN)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Forchia%20(BN).zip" Date="17062026"/>
+		<rule type="Marker" Number="32" Name="Digitale Terrestre Forchia (BN)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Forchia%20(BN).zip" Date="24062026"/>
 		<rule type="Marker" Number="33" Name="Digitale Terrestre Gibellina (TP)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Gibellina%20(TP).zip" Date="21092025"/>
 		<rule type="Marker" Number="34" Name="Digitale Terrestre Grado (GO)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Grado%20(GO).zip" Date="29092025"/>
 		<rule type="Marker" Number="35" Name="Digitale Terrestre Gravina di Catania" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Gravina%20di%20Catania.zip" Date="14112025"/>
@@ -84,7 +84,7 @@
 		<rule type="Marker" Number="56" Name="Digitale Terrestre Palermo" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Palermo.zip" Date="22062026"/>
 		<rule type="Marker" Number="57" Name="Digitale Terrestre Parabita (LE)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Parabita%20(LE).zip" Date="02052025"/>
 		<rule type="Marker" Number="58" Name="Digitale Terrestre Partinico" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Partinico.zip" Date="11042026"/>
-		<rule type="Marker" Number="59" Name="Digitale Terrestre Pescara" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pescara.zip" Date="17062026"/>
+		<rule type="Marker" Number="59" Name="Digitale Terrestre Pescara" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pescara.zip" Date="24062026"/>
 		<rule type="Marker" Number="60" Name="Digitale Terrestre Pisa" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pisa.zip" Date="13092025"/>
 		<rule type="Marker" Number="61" Name="Digitale Terrestre Ponte di Piave (TV)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Ponte%20di%20Piave%20(TV).zip" Date="05102025"/>
 		<rule type="Marker" Number="62" Name="Digitale Terrestre Pordenone" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Pordenone.zip" Date="21092025"/>
@@ -107,7 +107,7 @@
 		<rule type="Marker" Number="79" Name="Digitale Terrestre Senigallia" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Senigallia.zip" Date="24022026"/>
 		<rule type="Marker" Number="80" Name="Digitale Terrestre Serpeddì (CA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Serpeddi%20(CA).zip" Date="03102025"/>
 		<rule type="Marker" Number="81" Name="Digitale Terrestre Somma V.na (NA" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Somma%20Vesuviana%20(NA).zip" Date="28082025"/>
-		<rule type="Marker" Number="82" Name="Digitale Terrestre Sondrio" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Sondrio.zip" Date="17062026"/>
+		<rule type="Marker" Number="82" Name="Digitale Terrestre Sondrio" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Sondrio.zip" Date="24062026"/>
 		<rule type="Marker" Number="83" Name="Digitale Terrestre Spoleto (PG)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Spoleto.zip" Date="10072025"/>
 		<rule type="Marker" Number="84" Name="Digitale Terrestre Sulmona" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Sulmona.zip" Date="31082025"/>
 		<rule type="Marker" Number="85" Name="Digitale Terrestre TeleseTerme (BN)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20TeleseTerme%20(BN).zip" Date="15072025"/>
