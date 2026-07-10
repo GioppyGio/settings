@@ -26,7 +26,7 @@
 		<rule type="Marker" Number="1" Name="Motor 75E-45W" Link="https://gioppygio.it/settings/e2/GioppyGio_E2_Motor_75E-45W_07-07-2026.zip" Date="07072026"/>
 	</ruleset>
 	<ruleset name="dtt">
-	    <rule type="Marker" Number="1" Name="Digitale Terrestre Aci Catena (CT)ᶰᶱʷ" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Aci%20Catena%20(CT).zip" Date="07072026"/>
+	    <rule type="Marker" Number="1" Name="Digitale Terrestre Aci Catena (CT)ᶰᶱʷ" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Aci%20Catena%20(CT).zip" Date="10072026"/>
 		<rule type="Marker" Number="2" Name="Digitale Terrestre Agrigento" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Agrigento.zip" Date="30102025"/>
 		<rule type="Marker" Number="3" Name="Digitale Terrestre Ancona" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Ancona.zip" Date="22012026"/>
 		<rule type="Marker" Number="4" Name="Digitale Terrestre Ascoli" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Ascoli.zip" Date="13042025"/>
@@ -72,7 +72,7 @@
 		<rule type="Marker" Number="44" Name="Digitale Terrestre MacchiaValfortore(CB)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20MacchiaValfortore%20(CB).zip" Date="21122025"/>
 		<rule type="Marker" Number="45" Name="Digitale Terrestre MarinadiCamerota(SA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Marina%20di%20Camerota%20(SA).zip" Date="18062026"/>
 		<rule type="Marker" Number="46" Name="Digitale Terrestre Martina Franca (TA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Martina%20Franca.zip" Date="16062025"/>
-		<rule type="Marker" Number="47" Name="Digitale Terrestre Matera" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Matera.zip" Date="25062026"/>
+		<rule type="Marker" Number="47" Name="Digitale Terrestre Matera" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Matera.zip" Date="10072026"/>
 		<rule type="Marker" Number="48" Name="Digitale Terrestre Milano" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Milano.zip" Date="07032026"/>
 		<rule type="Marker" Number="49" Name="Digitale Terrestre Milazzo" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Milazzo.zip" Date="04062026"/>
 		<rule type="Marker" Number="50" Name="Digitale Terrestre Militello Val di CT ᶰᶱʷ" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Militello%20in%20Val%20di%20Catania.zip" Date="24042025"/>
