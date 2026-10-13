@@ -55,6 +55,7 @@
 		<rule type="Marker" Number="26" Name="Digitale Terrestre Cerignola (FG)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Cerignola%20(FG).zip" Date="04092025"/>
 		<rule type="Marker" Number="27" Name="Digitale Terrestre Chieri (TO)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Chieri%20(TO).zip" Date="03082026"/>
 		<rule type="Marker" Number="28" Name="Digitale Terrestre Crispiano (TA)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Crispiano%20%5bTA%5d%20.zip" Date="02052026"/>
+		<rule type="Marker" Number="29" Name="Digitale Terrestre Crotone ᶰᶱʷ" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Crotone.zip" Date="13102026"/>
 		<rule type="Marker" Number="29" Name="Digitale Terrestre FiglineValdarno ᶰᶱʷ" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20FiglineValdarno.zip" Date="08102026"/>
 		<rule type="Marker" Number="30" Name="Digitale Terrestre Fiorano (MO) " Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Fiorano%20(MO).zip" Date="18072026"/>
 		<rule type="Marker" Number="31" Name="Digitale Terrestre Firenze" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Firenze.zip" Date="11012026"/>
@@ -127,7 +128,7 @@
 		<rule type="Marker" Number="98" Name="Digitale Terrestre Treviglio (BG)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Treviglio(BG).zip" Date="14032026"/>
 		<rule type="Marker" Number="99" Name="Digitale Terrestre Treviso" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Treviso.zip" Date="20022026"/>
 		<rule type="Marker" Number="100" Name="Digitale Terrestre Verona" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Verona.zip" Date="21092025"/>
-		<rule type="Marker" Number="101" Name="Digitale Terrestre VillaGuardia (CO)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Villaguardia%20(CO).zip" Date="28092026"/>
+		<rule type="Marker" Number="101" Name="Digitale Terrestre VillaGuardia (CO)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Villaguardia%20(CO).zip" Date="13102026"/>
 		<rule type="Marker" Number="102" Name="Digitale Terrestre Villanova D'Asti" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Villanova%20D'Asti.zip" Date="02032026"/>
 		<rule type="Marker" Number="103" Name="Digitale Terrestre Viterbo" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20Viterbo.zip" Date="11032026"/>
 		<rule type="Marker" Number="104" Name="Digitale Terrestre VittorioVeneto(TV)" Link="https://gioppygio.it/liste-dtt/Digitale%20Terrestre%20VittorioVeneto%20(TV).zip" Date="03022026"/>
